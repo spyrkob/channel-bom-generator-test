@@ -1,0 +1,5 @@
+schemaVersion: 1.0.0
+streams:
+  - groupId: org.jboss.logmanager
+    artifactId: jboss-logmanager
+    version: "2.1.17.Final"
