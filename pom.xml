@@ -48,7 +48,7 @@
                             <channels>
                                 <channel>
                                     <manifest>
-                                        <groupId>test</groupId>
+                                        <groupId>org.wildfly.prospero.test</groupId>
                                         <artifactId>test-manifest</artifactId>
                                     </manifest>
                                 </channel>
