@@ -18,11 +18,11 @@
 
 ### Use URL to reference manifest
 1. Edit the pom.xml replacing channel definition with
-   ```
+   ```xml
    <channels>
      <channel>
        <manifest>
-         <url>file:manifest.yaml</groupId>
+         <url>file:manifest.yaml</url>
        </manifest>
      </channel>
    </channels>
